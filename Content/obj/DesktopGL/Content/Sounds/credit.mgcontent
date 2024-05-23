@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/credit.wav</SourceFile>
+  <SourceTime>2019-05-25T14:01:18.2009722+09:00</SourceTime>
+  <DestFile>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/bin/DesktopGL/Content/Sounds/credit.xnb</DestFile>
+  <DestTime>2021-10-31T19:48:30.5645923+09:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+09:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

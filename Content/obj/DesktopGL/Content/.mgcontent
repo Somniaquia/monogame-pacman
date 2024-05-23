@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/credit.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/death_1.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/death_2.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/eat_fruit.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/eat_ghost.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/extend.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/game_start.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/intermission.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/munch_1.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/munch_2.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/power_pellet.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/retreating.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/siren_1.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/siren_2.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/siren_3.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/siren_4.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Sounds/siren_5.wav</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/FruitCounter.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Fruits.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Ghosts.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/LifeCounter.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Pacman.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Scores.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Text.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/Tiles.png</File>
+    <File>C:/Workspace/Programming/C#/Monogame/RevampedPacman/Content/Textures/TitleScreen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

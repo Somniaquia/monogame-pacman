@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pacman</id>
+    <version>1.0.0</version>
+    <authors>Pacman</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/credit.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/death_1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/death_2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/eat_fruit.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/eat_ghost.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/extend.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/game_start.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/intermission.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/munch_1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/munch_2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/power_pellet.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/retreating.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/siren_1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/siren_2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/siren_3.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/siren_4.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Sounds/siren_5.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/FruitCounter.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Fruits.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Ghosts.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/LifeCounter.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Maze.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Pacman.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Scores.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Text.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/Tiles.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Textures/TitleScreen.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\bin\Debug\netcoreapp3.1\Pacman.runtimeconfig.json" target="lib\netcoreapp3.1\Pacman.runtimeconfig.json" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\bin\Debug\netcoreapp3.1\Pacman.dll" target="lib\netcoreapp3.1\Pacman.dll" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\credit.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\credit.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\credit.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\credit.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\death_1.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\death_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\death_1.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\death_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\death_2.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\death_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\death_2.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\death_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\eat_fruit.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\eat_fruit.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\eat_fruit.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\eat_fruit.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\eat_ghost.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\eat_ghost.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\eat_ghost.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\eat_ghost.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\extend.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\extend.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\extend.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\extend.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\game_start.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\game_start.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\game_start.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\game_start.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\intermission.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\intermission.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\intermission.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\intermission.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\munch_1.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\munch_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\munch_1.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\munch_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\munch_2.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\munch_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\munch_2.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\munch_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\power_pellet.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\power_pellet.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\power_pellet.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\power_pellet.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\retreating.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\retreating.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\retreating.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\retreating.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_1.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\siren_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_1.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\siren_1.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_2.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\siren_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_2.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\siren_2.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_3.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\siren_3.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_3.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\siren_3.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_4.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\siren_4.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_4.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\siren_4.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_5.xnb" target="content\Content\bin\DesktopGL\Content\Sounds\siren_5.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Sounds\siren_5.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Sounds\siren_5.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\FruitCounter.xnb" target="content\Content\bin\DesktopGL\Content\Textures\FruitCounter.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\FruitCounter.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\FruitCounter.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Fruits.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Fruits.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Fruits.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Fruits.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Ghosts.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Ghosts.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Ghosts.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Ghosts.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\LifeCounter.xnb" target="content\Content\bin\DesktopGL\Content\Textures\LifeCounter.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\LifeCounter.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\LifeCounter.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Maze.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Maze.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Maze.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Maze.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Pacman.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Pacman.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Pacman.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Pacman.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Scores.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Scores.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Scores.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Scores.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Text.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Text.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Text.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Text.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Tiles.xnb" target="content\Content\bin\DesktopGL\Content\Textures\Tiles.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\Tiles.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\Tiles.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\TitleScreen.xnb" target="content\Content\bin\DesktopGL\Content\Textures\TitleScreen.xnb" />
+    <file src="C:\Workspace\Programming\C#\Monogame\RevampedPacman\Content\bin\DesktopGL\Content\Textures\TitleScreen.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Textures\TitleScreen.xnb" />
+  </files>
+</package>
